@@ -41,8 +41,8 @@ How to Run the Notebook
 
 Clone the repository:
 
-git clone <your_repo_link_here>
-cd <Gummadi_Sai_Nikhil_Reddy>
+git clone https://github.com/nikhil182007/ML-Assignment.git
+
 
 
 Install requirements:
